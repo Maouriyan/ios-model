@@ -1,0 +1,523 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2565,
+      "max": [
+        0.08103542774915695,
+        0.7572919726371765,
+        0.013429512269794941
+      ],
+      "min": [
+        -0.28357312083244324,
+        -0.06555914133787155,
+        -0.013429512269794941
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 30780,
+      "componentType": 5126,
+      "count": 2565,
+      "max": [
+        0.9999934434890747,
+        0.9999951124191284,
+        1.0
+      ],
+      "min": [
+        -0.9999990463256836,
+        -0.9999291896820068,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2565,
+      "max": [
+        0.9999679923057556,
+        0.9983659982681274,
+        0.9999728202819824,
+        1.0
+      ],
+      "min": [
+        -0.8076122999191284,
+        -0.8679696321487427,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2565,
+      "max": [
+        0.9831482768058777,
+        0.9810477495193481
+      ],
+      "min": [
+        0.0022024151403456926,
+        0.0022024151403456926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20520,
+      "componentType": 5126,
+      "count": 2565,
+      "max": [
+        0.9831482768058777,
+        0.9810477495193481
+      ],
+      "min": [
+        0.0022024151403456926,
+        0.0022024151403456926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 41040,
+      "componentType": 5126,
+      "count": 2565,
+      "max": [
+        0.9831482768058777,
+        0.9810477495193481
+      ],
+      "min": [
+        0.0022024151403456926,
+        0.0022024151403456926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 13614,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 61560,
+      "componentType": 5126,
+      "count": 4429,
+      "max": [
+        0.020266950130462646,
+        0.5127565264701843,
+        0.02190360054373741
+      ],
+      "min": [
+        -0.22324058413505554,
+        -0.4051179885864258,
+        -0.02190360054373741
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 114708,
+      "componentType": 5126,
+      "count": 4429,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 41040,
+      "componentType": 5126,
+      "count": 4429,
+      "max": [
+        0.9999819397926331,
+        0.9976834654808044,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.999997615814209,
+        -0.9999961853027344,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 61560,
+      "componentType": 5126,
+      "count": 4429,
+      "max": [
+        0.9873365759849548,
+        0.9977976083755493
+      ],
+      "min": [
+        0.0022024151403456926,
+        0.0022024151403456926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 96992,
+      "componentType": 5126,
+      "count": 4429,
+      "max": [
+        0.9873365759849548,
+        0.9977976083755493
+      ],
+      "min": [
+        0.0022024151403456926,
+        0.0022024151403456926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 132424,
+      "componentType": 5126,
+      "count": 4429,
+      "max": [
+        0.9873365759849548,
+        0.9977976083755493
+      ],
+      "min": [
+        0.0022024151403456926,
+        0.0022024151403456926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 54456,
+      "componentType": 5125,
+      "count": 20508,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 106,
+      "max": [
+        4.150000095367432
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 106,
+      "max": [
+        0.0,
+        0.0,
+        0.9990482330322266,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        -0.008726535364985466,
+        0.04361938685178757
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 4,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Blade low poly|Action",
+      "samplers": [
+        {
+          "input": 14,
+          "interpolation": "LINEAR",
+          "output": 15
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "rowanhopkins98 (https://sketchfab.com/rowanhopkins98)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/saw-cleaver-bloodborne-low-poly-version-cfd0c69f8d6c4b0f91a8c978603477ba",
+      "title": "Saw Cleaver | Bloodborne (Low Poly version)"
+    },
+    "generator": "Sketchfab-13.26.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 136488,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 167856,
+      "byteOffset": 136488,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 167856,
+      "byteOffset": 304344,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 111904,
+      "byteOffset": 472200,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 424,
+      "byteOffset": 584104,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1696,
+      "byteOffset": 584528,
+      "byteStride": 16,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 586224,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Saw_cleaver_baseColor.png"
+    },
+    {
+      "uri": "textures/Saw_cleaver_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Saw_cleaver_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Saw_cleaver",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Blade low poly_Saw_cleaver_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "handle low poly_Saw_cleaver_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 8,
+            "POSITION": 7,
+            "TANGENT": 9,
+            "TEXCOORD_0": 10,
+            "TEXCOORD_1": 11,
+            "TEXCOORD_2": 12
+          },
+          "indices": 13,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        -4.440892098500626e-16,
+        0.0,
+        0.0,
+        4.440892098500626e-16,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "8b321a5733e74b09a68a480658404c1a.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Object_2"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Blade low poly",
+      "rotation": [
+        0.0,
+        0.0,
+        0.010330562479794025,
+        0.999946653842926
+      ],
+      "scale": [
+        100.0,
+        100.0,
+        100.0
+      ],
+      "translation": [
+        -17.324045181274414,
+        -35.51179885864258,
+        0.0
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Blade low poly_Saw_cleaver_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "handle low poly",
+      "scale": [
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "handle low poly_Saw_cleaver_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
