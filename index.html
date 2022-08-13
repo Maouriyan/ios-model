@@ -69,6 +69,23 @@
                 </div>
 
             </model-viewer>
+            
+             <model-viewer id="color" style="margin:auto; width:auto; height:800px" autoplay camera-controls
+            interaction-prompt="none" exposure="1" 
+            src="https://raw.githubusercontent.com/Maouriyan/models/main/scene.gltf"
+            ios-src="https://github.com/Maouriyan/models/blob/main/India.usdz"
+            ar ar-modes="webxr scene-viewer quick-look" alt="A 3D model of an astronaut"
+            seamless-poster shadow-intensity="1" shadow-softness="2" camera-controls auto-rotate xr-environment>
+
+                <button slot="ar-button" id="ar-button">
+                    View in your space
+                </button>
+
+                <div id="ar-prompt">
+                    <img src="hand.png">
+                </div>
+
+            </model-viewer>
         </div>
         <div class="content">
             <div class="wrapper">
